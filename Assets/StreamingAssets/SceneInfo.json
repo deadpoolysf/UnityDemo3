@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"ImgScene/GameScene1","name":"死亡阶梯","tips":"死守阶梯，防止怪物破坏神像","sceneName":"GameScene1","money":200,"towerHp":100},
+{"id":2,"imgRes":"ImgScene/GameScene2","name":"闹鬼庄园","tips":"破败的庄园，怪物会围绕庄园两边进攻","sceneName":"GameScene2","money":200,"towerHp":100},
+{"id":3,"imgRes":"ImgScene/GameScene3","name":"十字路口","tips":"曾经四通八达的十字路口，怪物会从多个方向袭来，因此十分危险","sceneName":"GameScene3","money":200,"towerHp":100}
+]

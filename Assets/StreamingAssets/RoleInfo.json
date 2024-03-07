@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/1","atk":2,"tips":"手感卓越的小刀","lockMoney":0,"type":1,"hitEff":"Eff/1","sound":"Music/Weapon/1"},
+{"id":2,"res":"Role/2","atk":3,"tips":"小帮手","lockMoney":100,"type":2,"hitEff":"Eff/2","sound":"Music/Weapon/2"},
+{"id":3,"res":"Role/3","atk":4,"tips":"平行步枪","lockMoney":200,"type":2,"hitEff":"Eff/3","sound":"Music/Weapon/3"},
+{"id":4,"res":"Role/4","atk":5,"tips":"狙神","lockMoney":300,"type":2,"hitEff":"Eff/4","sound":"Music/Weapon/4"},
+{"id":5,"res":"Role/5","atk":6,"tips":"大菠萝","lockMoney":400,"type":2,"hitEff":"Eff/5","sound":"Music/Weapon/5"},
+{"id":6,"res":"Role/6","atk":7,"tips":"祖传RPG","lockMoney":500,"type":2,"hitEff":"Eff/6","sound":"Music/Weapon/6"}
+]
